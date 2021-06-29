@@ -1,0 +1,4 @@
+https://api.proxyscrape.com/?request=displayproxies&proxytype=http
+https://api.proxyscrape.com/?request=displayproxies&proxytype=https
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5
